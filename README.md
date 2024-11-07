@@ -1,5 +1,5 @@
 
-#📚 Multimodal AI Chatbot for YouTube Book Review Analysis
+📚 Multimodal AI Chatbot for YouTube Book Review Analysis
 
 ## Project Overview
 This project creates a multimodal chatbot interface using Gradio for both text and voice inputs. It’s designed to answer user questions based on YouTube video transcripts, using LangChain for advanced natural language processing and Pinecone for efficient vector-based querying and storage.
