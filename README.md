@@ -135,7 +135,7 @@ python review_analysis_chatbot.py  # For YouTube Review Analysis Chatbot
 
 
 ## 👩‍💻 About Me
-I am an AI engineer passionate about the intersection of artificial intelligence and literature. This project represents my fascination with *Wuthering Heights* and my dedication to exploring new applications of AI in literary analysis. By combining advanced NLP models, multimodal interaction through Gradio, and vector-based search with Pinecone, I aim to create interactive tools for exploring classic literature. My goal is to expand this project, adding more texts and analyses to build a comprehensive resource for readers, students, and researchers.
+I am an AI engineer passionate about the intersection of artificial intelligence and literature. This project represents my fascination with *Wuthering Heights* and my dedication to exploring new applications of AI in literary analysis. By combining advanced NLP models, multimodal interaction through Gradio, and vector-based search with Pinecone, I aim to create interactive tools for exploring classic literature. My goal is to expand this project, adding more texts and analyses to build a comprehensive resource for readers, students, and anyone passionate about the gothic literature tradition.
 
 ## 🤝 Contribution
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
